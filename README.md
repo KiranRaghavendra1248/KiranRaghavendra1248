@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm a Computer Science Engineering student passionate about Machine Learning and Deep Learning.</h3>
+<h3 align="left">I'm a Computer Science Engineering student</h3>
 
 - 🔭 I’m currently studying B.Tech CSE at JSSSTU Mysuru
 
