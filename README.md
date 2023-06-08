@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm a Computer Science Engineering student</h3>
+<h3 align="left">I'm a Firmware Engineer and a Deep Learning Enthusiast</h3>
 
-- 🔭 I’m currently studying B.Tech CSE at JSSSTU Mysuru
+- 🔭 I’m currently working at Western Digital 
 
 - 🔊 Reach me at kiran.raghu.1248@gmail.com
 
