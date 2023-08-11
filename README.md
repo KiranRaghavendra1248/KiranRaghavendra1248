@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm a Firmware Engineer and a Deep Learning Enthusiast</h3>
+<h3 align="left">Hey there!! 
+I am Kiran Raghavendra, a CS Grad student at University of California, Irvine.
+I am eager to learn and grow in the field of Machine Learning and Software Engineering. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. Actively looking for Summer 2024 internships in software engineering and machine learning</h3>
 
-- 🔭 I’m currently working at Western Digital 
-
-- 🔊 Reach me at kiran.raghu.1248@gmail.com
+- 🔊 Reach me at kraghav1@uci.edu
 
 - ⚡ Looking to learn & grow constantly
 
