@@ -1,8 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">Hey there!! 
+Hey there!! 
 I am Kiran Raghavendra, a CS Grad student at University of California, Irvine.
-I am eager to learn and grow in the field of Machine Learning and Software Engineering. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. Actively looking for Summer 2024 internships in software engineering and machine learning</h3>
-
+I am eager to learn and grow in the field of Machine Learning and Software Engineering. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. Actively looking for Summer 2024 internships in software engineering and machine learning
 - 🔊 Reach me at kraghav1@uci.edu
 
 - ⚡ Looking to learn & grow constantly
