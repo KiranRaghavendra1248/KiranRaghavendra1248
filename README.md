@@ -3,7 +3,7 @@ Hey there!!
 I am Kiran Raghavendra, a CS Grad student at University of California, Irvine.
 I am eager to learn and grow in the field of Machine Learning and Software Engineering. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. Actively looking for Summer 2024 internships in software engineering and machine learning
 
-- 🔊 Reach me at kraghav1@uci.edu
+🔊 Reach me at kraghav1@uci.edu
 
 
 <h3 align="left">Connect with me:</h3>
