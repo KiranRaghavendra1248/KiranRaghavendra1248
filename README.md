@@ -1,7 +1,10 @@
 <h1 align="left">Hi there 👋</h1>
 Hey there!! 
 I am Kiran Raghavendra, a CS Grad student at the University of California, Irvine.
-I am eager to learn and grow in the field of Machine Learning and Software Engineering. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. Currently, I'm exploring different methods for pre-training and downstream fine-tuning LLMs, mainly Masked Language Modelling, Sentence Pair Prediction, Next Word Prediction from context, and Multi-Task Training on decoder-only architectures like GPT2.
+I am eager to learn and grow in the field of Machine Learning and Software Engineering. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. 
+
+Currently, I'm exploring different methods for pre-training and downstream fine-tuning LLMs, mainly Masked Language Modelling, Sentence Pair Prediction, Next Word Prediction from context, and Multi-Task Training on decoder-only architectures like GPT2.
+
 Actively looking for Summer 2024 internships in software engineering and machine learning
 
 🔊 Reach me at kraghav1@uci.edu
