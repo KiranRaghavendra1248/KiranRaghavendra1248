@@ -3,9 +3,7 @@ Hey there!!
 I am Kiran Raghavendra, a CS Grad student at the University of California, Irvine.
 I am eager to learn and grow in the field of Machine Learning and Distributed Systems. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. 
 
-Currently, I'm exploring different methods for pre-training and downstream fine-tuning LLMs, mainly Masked Language Modelling, Sentence Pair Prediction, Next Word Prediction from context, and Multi-Task Training on decoder-only architectures like GPT2.
-
-Actively looking for Summer 2024 internships in software engineering and machine learning
+I am particularly interested in working on NLU and NLG for Information Retrieval and Conversational AI.
 
 🔊 Reach me at kraghav1@uci.edu
 
