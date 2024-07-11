@@ -3,7 +3,7 @@ Hey there!!
 I am Kiran Raghavendra, a CS Grad student at the University of California, Irvine.
 I am eager to learn and grow in the field of Machine Learning and Distributed Systems. I am skilled in Software Development, Machine Learning, Computer Vision, and Natural Language Processing. 
 
-I am particularly interested in working on NLU and NLG for Information Retrieval and Conversational AI.
+Currently exploring Multi Modal AI and Reinforcement Learning
 
 🔊 Reach me at kraghav1@uci.edu
 
